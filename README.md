@@ -8,10 +8,10 @@ This directory contains the Final Project submission for the Software Testing, D
    * The complete Testing and Release Planning Kit in Markdown format.
    * Includes all 8 required sections structured clearly.
 
-2. **`Muhammad_Maaz_Testing_Release_Planning_Kit.docx`**
-   * The Testing and Release Planning Kit covering Sections 1 through 7, neatly formatted in the provided Word template.
+2. **`Muhammad_Maaz_Testing_Release_Planning_Kit.docx` / `.md`**
+   * The Testing and Release Planning Kit covering Sections 1 through 7, neatly formatted in the provided template.
 
-3. **`Muhammad_Maaz_Non_Functional_Requirements_Kit.docx`**
+3. **`Muhammad_Maaz_Non_Functional_Requirements_Kit.docx` / `.md`**
    * The Non-Functional Requirements Kit covering Section 8 (NFRs, Golden Signals, Peak Traffic Preparation) formatted in its dedicated template.
 
 
